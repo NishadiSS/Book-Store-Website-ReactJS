@@ -826,7 +826,7 @@ const Home = () => {
                 <a href="\#"><i><FaLinkedinIn  /></i></a>
                 <a href="\#"><i><FaPinterestP  /></i></a>
             </div>
-            <div className="credit">created by <span>CodeSlaves Design</span> | all rights reserved!</div>
+            <div className="credit">created by <span>CodNish Design</span> | all rights reserved!</div>
         </section>
 
     </div>
